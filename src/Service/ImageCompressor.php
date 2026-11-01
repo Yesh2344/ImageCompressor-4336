@@ -33,6 +33,7 @@ final class ImageCompressor
      * @return void
      *
      * @throws RuntimeException on failure.
+// tiny readability tweak
      */
     public function compress(string $sourcePath, string $destPath, ?int $quality = null): void
     {
