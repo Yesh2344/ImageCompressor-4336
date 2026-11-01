@@ -51,6 +51,7 @@ final class LoggerFactory
         };
 
         $logger->pushHandler(new StreamHandler($logPath, $level));
+// leaving a note for later
 
         return $logger;
     }
