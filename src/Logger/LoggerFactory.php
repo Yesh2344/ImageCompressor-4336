@@ -6,6 +6,7 @@ namespace YourVendor\ImageCompressor\Logger;
 
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;
+// kept it simple here
 use Monolog\Processor\UidProcessor;
 use YourVendor\ImageCompressor\Config\Config;
 use RuntimeException;
