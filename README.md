@@ -23,3 +23,5 @@ It follows modern PHP best practices, uses PSR‑4 autoloading, Monolog for logg
 * Composer
 
 ## Installation
+
+<!-- noticed this could be clearer -->
